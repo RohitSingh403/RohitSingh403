@@ -63,7 +63,7 @@
 ### 📈 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RohitSingh&show_icons=true&theme=radical&hide_border=true" width="400px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSingh&layout=compact&theme=radical&hide_border=true" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSingh&layout=compact&theme=radical&hide_border=true&langs_count=5&hide=c" width="400px">
 </p>
 
 <p>
