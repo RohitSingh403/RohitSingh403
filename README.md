@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/RohitSingh"><img src="https://img.shields.io/github/followers/RohitSingh?label=Follow%20Me&style=social" /></a>
-  <a href="https://linkedin.com/in/rohitsingh"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square"></a>
+  <a href="www.linkedin.com/in/rohit-singh4"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square"></a>
   <a href="https://twitter.com/rohitsingh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square"></a>
 </p>
 
