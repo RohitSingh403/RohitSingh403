@@ -66,6 +66,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSingh&layout=compact&theme=radical&hide_border=true" width="400px">
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Java-70%25-brightgreen?style=for-the-badge" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitSingh&theme=radical&hide_border=true" width="400px">
 </p>
