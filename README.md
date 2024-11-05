@@ -56,7 +56,7 @@
 2. **Social Media Platform** - User interactions, post creation, and profile management with RESTful API (Express, MongoDB).
 3. **API Development** - REST APIs for various use cases with testing using Postman.
 
-> Check out more projects on my [GitHub Repositories](https://github.com/RohitSingh?tab=repositories)
+> Check out more projects on my [GitHub Repositories](https://github.com/RohitSingh403)
 
 ---
 
