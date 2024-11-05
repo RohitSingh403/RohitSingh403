@@ -45,7 +45,7 @@
 ---
 
 ### 🎖️ **Certifications**
-- **Postman API Fundamentals Student Expert** ![Badge](https://img.shields.io/badge/Certified-Postman-orange?style=flat&logo=postman&logoColor=white)
+- **Postman API Fundamentals Student Expert** ![Badge](https://api.badgr.io/public/assertions/HKS6tfxNQoah4AG4dqeCBw?identity__email=itsmerohitsingh007%40gmail.com)
 - **Java & DSA Foundations** ![Badge](https://img.shields.io/badge/Certified-Java-blue?style=flat&logo=java&logoColor=white)
 
 ---
