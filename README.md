@@ -74,7 +74,7 @@
 
 ### 📄 Resume
 
-📌 [View My Resume (Google Drive Link)](https://drive.google.com/your-resume-link)
+📌 [View My Resume (Google Drive Link)](https://drive.google.com/file/d/1KziNoAUtVc0Pdtm-_vyDDU4azLH-hxRR/view?usp=sharing)
 
 ---
 
