@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 3rd Year BTech CSE Student  
+- 🎓 4rd Year BTech CSE Student  
 - 💼 Former Intern @ **DRDO, Govt. of India**  
 - 🌱 Currently learning **DSA**, **Full-Stack Development**, and **Java**  
 - 👨‍💻 Actively contributing to **Open Source**  
@@ -97,5 +97,5 @@
 ### 📈 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RohitSingh403&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
