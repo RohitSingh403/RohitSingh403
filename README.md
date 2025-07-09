@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Software+Developer+%7C+Java+%7C+DSA+%7C+Web+Dev;Open+Source+Contributor+%7C+GSoC+Aspiring;3rd+Year+CSE+Student+%7C+Intern+@+DRDO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=735&lines=Software+Developer+%7C+Java+%7C+DSA+%7C+Web+Dev;Open+Source+Contributor+%7C+GSoC+Aspiring;3rd+Year+CSE+Student+%7C+Intern+@+DRDO" alt="Typing SVG" />
 </p>
 ---
 
