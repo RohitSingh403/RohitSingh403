@@ -1,125 +1,152 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/v3/api/github/RohitSingh403?type=waving&color=0A66C2&height=130&section=header&text=Hi%2C%20I'm%20Rohit%20Singh&fontSize=45&fontColor=ffffff" alt="header"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7A0C00&height=220&section=header&text=Rohit%20Singh&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Graduate%20CS%20Student%202026&descAlignY=55&descSize=20" alt="header banner"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7A0C00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+with+React+%7C+Node.js+%7C+TypeScript;DevOps+%26+Cloud+Enthusiast+(AWS+%7C+Docker);Currently+shipping+CloudOpsVigil+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Hiring%20Me%3F-7A0C00?style=for-the-badge&logo=handshake&logoColor=white)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=RohitSingh403&color=7A0C00&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/RohitSingh403?label=Followers&style=flat-square&color=7A0C00)
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Rohit Singh</h1>
-<h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=735&lines=Software+Developer+%7C+Java+%7C+DSA+%7C+Web+Dev;GSSoC'24+Extended+Contributor+%7C+Ex-DRDO+Intern;Open+Source+Enthusiast+%7C+Building+Scalable+Apps" alt="Typing SVG" />
-</p>
+## 🧠 Who I Am
+
+```typescript
+const rohitSingh = {
+  title: "Full Stack Developer | Graduate CS Student 2026",
+  stack: {
+    languages: ["Java", "JavaScript", "TypeScript"],
+    frontend: ["React.js", "Next.js", "HTML", "CSS", "Redux"],
+    backend: ["Node.js", "Express.js", "WebSocket"],
+    databases: ["MongoDB", "PostgreSQL", "Redis"],
+    cloud_devops: ["AWS", "Linux", "Docker"],
+    tools: ["Git", "GitHub"],
+  },
+  launchedProjects: [
+    "DRDO_AMC_MONITORING_PORTAL",
+    "AI-Assisted Technical Document Intelligence & Decision Support System (in progress)",
+  ],
+  certifications: [], // to be added
+  status: "Actively building & shipping full-stack + DevOps projects",
+  openTo: ["Full-time roles", "Full Stack Developer positions", "Collaborations"],
+};
+```
 
 ---
 
-### 🧑‍💻 About Me
+## 🚀 Featured Projects
 
-- 🎓 **4th Year B.Tech CSE Student**
-- 💼 **Former Intern @ DRDO, Government of India**
-- 🌱 Currently mastering **DSA**, **Full-Stack Development**, **System Design** & **Open Source**
-- 🏆 **GSSoC'24 Extended** Contributor — **Rank #1662** | **500 Points** | **4 PRs**
-- 👨‍💻 Actively contributing to Open Source & preparing for **Google Summer of Code (GSoC) 2026**
-- 🚀 **Goal**: Secure an **SDE-1** role at a top tech company
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### 🌐 Frontend
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### 🖥️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-#### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitSingh403&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitSingh403&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSingh403&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
-
-### 🏆 GSSoC'24 Extended Achievements
-
-**Stats**: Rank **#1662** • **500 Points** • **4 Pull Requests** • **6 Badges**
+### 📌 AMC Monitoring Portal
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="110" height="110" alt="Postman Expert"/>
-  <!-- Add only the badges visible in your image (Postman + GSSoC milestone badges) -->
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="110" height="110" alt="GSSoC Badge"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="110" height="110" alt="GSSoC Badge"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="110" height="110" alt="GSSoC Badge"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="110" height="110" alt="GSSoC Badge"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="110" height="110" alt="GSSoC Badge"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="115" height="115" alt="Code Luminary"/>
+  <a href="https://github.com/RohitSingh403/DRDO_AMC_MONITORING_PORTAL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohitSingh403&repo=DRDO_AMC_MONITORING_PORTAL&theme=nord&border_color=7A0C00&title_color=7A0C00" alt="AMC Monitoring Portal"/>
+  </a>
+</div>
+
+| Layer | Technology |
+|---|---|
+| Frontend | React.js |
+| Backend | Node.js, Express.js |
+| Database | MongoDB / PostgreSQL |
+| Other | REST APIs |
+
+<div align="center">
+
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohitSingh403/DRDO_AMC_MONITORING_PORTAL)
+
 </div>
 
 ---
 
-### 🔥 Featured Projects
+### 📌 AI-Assisted Technical Document Intelligence & Decision Support System
 
-*(Replace these with your 2–3 strongest projects — this section matters most to recruiters)*
+> 🚧 **Coming Soon** — this project is currently being pushed to GitHub. Pin card and links will be added once the repo is live.
 
-**1. [Project Name](link)**  
-> Short impactful description: Tech used + problem solved + results (e.g., "Developed a full-stack e-commerce platform with React, Node.js & MongoDB...").
-
-**2. [GSSoC24 / Postman Challenge Contributions](link)**  
-> Actively contributed to open-source projects during GSSoC'24 Extended.
-
-**3. [Another Strong Project](link)**  
-> ...
+| Layer | Technology |
+|---|---|
+| Languages | TypeScript / Java |
+| AI/DB | AI-assisted document processing |
+| Infra | AWS, Docker |
 
 ---
 
-### 📑 Certifications & Achievements
-- ✅ **Postman API Fundamentals Student Expert**
-- ✅ **Internship at DRDO, Government of India**
-- 🏅 **GSSoC'24 Extended Contributor** (500 Points + 6 Badges)
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Skills](https://skillicons.dev/icons?i=java,js,ts)
+
+**Frontend**
+
+![Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,redux)
+
+**Backend / Infra**
+
+![Skills](https://skillicons.dev/icons?i=nodejs,express,docker,linux)
+
+**Cloud**
+
+![Skills](https://skillicons.dev/icons?i=aws)
+
+**AI / Databases**
+
+![Skills](https://skillicons.dev/icons?i=mongodb,postgresql,redis)
+
+**Dev Tools**
+
+![Skills](https://skillicons.dev/icons?i=git,github)
 
 ---
 
-### 📄 Resume
-📌 **[View My Resume](https://drive.google.com/file/d/1KziNoAUtVc0Pdtm-_vyDDU4azLH-hxRR/view?usp=sharing)**
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RohitSingh403&show_icons=true&theme=nord&border_color=7A0C00&title_color=7A0C00&icon_color=7A0C00&text_color=c9d1d9" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSingh403&layout=compact&theme=nord&border_color=7A0C00&title_color=7A0C00&text_color=c9d1d9" alt="Top Languages" width="40%"/>
+
+<img src="https://streak-stats.demolab.com?user=RohitSingh403&theme=nord&border=7A0C00&ring=7A0C00&fire=7A0C00&currStreakLabel=7A0C00" alt="GitHub Streak"/>
+
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RohitSingh403&theme=nord&no-frame=true&no-bg=true&row=1&margin-w=15" alt="Trophies"/>
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitSingh403&theme=nord&color=7A0C00&line=7A0C00&point=ffffff" alt="Activity Graph"/>
+
+</div>
 
 ---
 
-### 📫 Let's Connect
+## 🔗 Connect with Me
 
-<p align="center">
-  <a href="mailto:roh.singh43@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-singh4/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RohitSingh403)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsmerohitsingh007@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7A0C00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iamrohitsingh.com/)
 
-**Thanks for visiting my profile!** ✨  
-Open to **SDE Internships**, **Full-time opportunities**, and **collaborations**.
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7A0C00&height=150&section=footer&animation=twinkling" alt="footer banner"/>
