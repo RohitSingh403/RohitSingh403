@@ -51,7 +51,7 @@ const rohitSingh = {
 <div style='display:flex; align-items:center; gap: 10px; flex-wrap: wrap;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="./gssoc24-badges/postman-logo-badge.png" width="100px" height="100px" title="Postman API Fundamentals - Student Expert" />
   <img src="./gssoc24-badges/champion-badge.png" width="100px" height="100px" title="Champion Badge" />
-  <img src="./gssoc24-badges/summit-seeker-badge.png" width="100px" height="100px" title="Summit Seeker Badge" />
+  <img src="./gssoc24-badges/postman-fundamentals-badge.png" width="100px" height="100px" title="Summit Seeker Badge" />
   <img src="./gssoc24-badges/trailblazer-badge.png" width="100px" height="100px" title="Trailblazer Badge" />
   <img src="./gssoc24-badges/adventurer-badge.png" width="100px" height="100px" title="Adventurer Badge" />
   <img src="./gssoc24-badges/explorer-badge.png" width="100px" height="100px" title="Explorer Badge" />
