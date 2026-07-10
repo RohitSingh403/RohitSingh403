@@ -50,7 +50,7 @@ const rohitSingh = {
 
 <div align="center">
   <a href="https://github.com/RohitSingh403/DRDO_AMC_MONITORING_PORTAL">
-    <img src="[https://github-readme-stats.vercel.app/api/pin/](https://iamrohitsingh.com/6.png)?username=RohitSingh403&repo=DRDO_AMC_MONITORING_PORTAL&theme=nord&border_color=7A0C00&title_color=7A0C00" alt="AMC Monitoring Portal"/>
+    <img src="https://iamrohitsingh.com/6.png?username=RohitSingh403&repo=DRDO_AMC_MONITORING_PORTAL&theme=nord&border_color=7A0C00&title_color=7A0C00" alt="AMC Monitoring Portal"/>
   </a>
 </div>
 
