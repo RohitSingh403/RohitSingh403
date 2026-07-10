@@ -142,14 +142,6 @@ const rohitSingh = {
 
 </div>
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RohitSingh403&theme=nord&no-frame=true&no-bg=true&row=1&margin-w=15" alt="Trophies"/>
-
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
