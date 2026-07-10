@@ -120,7 +120,6 @@ const rohitSingh = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=RohitSingh403&theme=nord&utm_source=chatgpt.com?username=RohitSingh403&show_icons=true&theme=nord&border_color=7A0C00&title_color=7A0C00&icon_color=7A0C00&text_color=c9d1d9" alt="GitHub Stats" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSingh403&layout=compact&theme=nord&border_color=7A0C00&title_color=7A0C00&text_color=c9d1d9" alt="Top Languages" width="40%"/>
 
 <img src="https://streak-stats.demolab.com?user=RohitSingh403&theme=nord&border=7A0C00&ring=7A0C00&fire=7A0C00&currStreakLabel=7A0C00" alt="GitHub Streak"/>
