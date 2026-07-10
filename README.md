@@ -142,6 +142,8 @@ const rohitSingh = {
 
 </div>
 
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
