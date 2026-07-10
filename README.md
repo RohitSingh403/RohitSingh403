@@ -58,6 +58,7 @@ const rohitSingh = {
 </a>
 </div>
 </details>
+
 ---
 
 ## 🚀 Featured Projects
